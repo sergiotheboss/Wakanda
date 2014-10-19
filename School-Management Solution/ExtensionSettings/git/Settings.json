@@ -1,5 +1,6 @@
 ﻿{
-	"gitIsPrivateRepository":"false",
-	"gitURL":"https://github.com/Wakanda-Demos",
-	"serverType":"github"
+	"gitIsPrivateRepository": "false",
+	"gitURL": "https://github.com/Wakanda-Demos",
+	"serverType": "github",
+	"gitEmail": "ambar.sergio@gmail.com"
 }
